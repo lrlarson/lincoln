@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/3123/lincolnkirstein/bibliography/trunk/test/functional
+END
+bibliography_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/2979/lincolnkirstein/bibliography/trunk/test/functional/bibliography_controller_test.rb
+END
+contents_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/3022/lincolnkirstein/bibliography/trunk/test/functional/contents_controller_test.rb
+END

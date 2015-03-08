@@ -1,0 +1,25 @@
+<div id="content_full">
+	<h2>Source Record</h2> 
+	<h3 class="entry"><%= @work.title %></h3><br class="clear">
+	<table id="search_results" class="tablesorter">
+		<thead>
+			<tr>	
+				<th width="40">No.</th>
+				<th width="45">Year</th>
+				<th width="330">Title: Bibliographical Entry</th>
+				<th width="165">Location: Publisher</th>
+				<th width="165">Category: Subcategory</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td width="40" align="center"><%= @work.reference_id %></td>				
+				<td width="45" align="center"><%= @work.year %></td>
+				<td width="330"><%= @work.title.gsub("<p>",'').gsub("</p>",'') %><br/><p class="indent"><%= @work.display.gsub("<p>",'').gsub("</p>",'') %></p></td>
+				<td width="165"><%= @work.city_publisher %></td>				
+				<td width="165"><% @work.categories.each do |c| %><%= c.parent.name %><br/><span class="subcategory"><%= c.name %></span><br /><% end %></td>
+			</tr>
+		</tbody>
+	</table>
+	<a href="javascript:window.close();" class="cancel">Close</a>
+</div>

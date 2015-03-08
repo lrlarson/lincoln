@@ -1,0 +1,41 @@
+<ul>
+	 	<li class="first_divider">&nbsp;</li> <!-- Must have for divider -->
+		<% if current_page?(:controller => "") && !current_page?(:controller => "bibliography") %><li class="current">Home</li>
+			<% else %>
+			<li><a href="/">Home</a></li>
+			<% end %>
+		<% if request.request_uri == "/about" %><li class="current">About Lincoln Kirstein</li>
+			<% else %>
+			<li><a href="/about/">About Lincoln Kirstein</a></li>
+			<% end %>
+		<% if current_page?(:controller => "bibliography") %><li class="current_dropdown"><a href="/bibliography">Bibliography</a>
+				<ul>
+					<li><a href="/bibliography?cat_id=1">Fiction</a></li>
+					<li><a href="/bibliography?cat_id=2">Poetry</a></li>
+					<li><a href="/bibliography?cat_id=3">Drama &amp; Ballet Libretti</a></li> 
+					<li><a href="/bibliography?cat_id=4">On Dance</a></li>
+					<li class="double"><a href="/bibliography?cat_id=5">On Drawing, Painting, Sculpture &amp; Architecture</a></li>
+					<li><a href="/bibliography?cat_id=6">On Photography</a></li>
+					<li><a href="/bibliography?cat_id=7">On Film</a></li>
+					<li><a href="/bibliography?cat_id=8">On Music &amp; Drama</a></li>
+					<li class="double"><a href="/bibliography?cat_id=9">On Literature, History, Politics &amp; Other Subjects</a></li>
+					<li><a href="/bibliography?cat_id=10">Memoir</a></li>
+				</ul>
+			</li>
+			<% else %>
+			<li><a href="/bibliography">Bibliography</a>
+				<ul>
+					<li><a href="/bibliography?cat_id=1">Fiction</a></li>
+					<li><a href="/bibliography?cat_id=2">Poetry</a></li>
+					<li><a href="/bibliography?cat_id=3">Drama &amp; Ballet Libretti</a></li> 
+					<li><a href="/bibliography?cat_id=4">On Dance</a></li>
+					<li class="double"><a href="/bibliography?cat_id=5">On Drawing, Painting, Sculpture &amp; Architecture</a></li>
+					<li><a href="/bibliography?cat_id=6">On Photography</a></li>
+					<li><a href="/bibliography?cat_id=7">On Film</a></li>
+					<li><a href="/bibliography?cat_id=8">On Music &amp; Drama</a></li>
+					<li class="double"><a href="/bibliography?cat_id=9">On Literature, History, Politics &amp; Other Subjects</a></li>
+					<li><a href="/bibliography?cat_id=10">Memoir</a></li>
+				</ul>
+			</li>
+			<% end %>
+</ul>

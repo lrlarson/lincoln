@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/3224/lincolnkirstein/bibliography/trunk/config
+END
+staging_mongrel_cluster.yml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/3224/lincolnkirstein/bibliography/trunk/config/staging_mongrel_cluster.yml
+END
+routes.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/3123/lincolnkirstein/bibliography/trunk/config/routes.rb
+END
+database.yml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/3027/lincolnkirstein/bibliography/trunk/config/database.yml
+END
+boot.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/2972/lincolnkirstein/bibliography/trunk/config/boot.rb
+END
+environment.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/3123/lincolnkirstein/bibliography/trunk/config/environment.rb
+END
+tiny_mce.yml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/3177/lincolnkirstein/bibliography/trunk/config/tiny_mce.yml
+END
+production_mongrel_cluster.yml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/3224/lincolnkirstein/bibliography/trunk/config/production_mongrel_cluster.yml
+END
+deploy.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/3224/lincolnkirstein/bibliography/trunk/config/deploy.rb
+END

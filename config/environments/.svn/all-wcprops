@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/3027/lincolnkirstein/bibliography/trunk/config/environments
+END
+test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/2972/lincolnkirstein/bibliography/trunk/config/environments/test.rb
+END
+development.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/2972/lincolnkirstein/bibliography/trunk/config/environments/development.rb
+END
+production.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/2972/lincolnkirstein/bibliography/trunk/config/environments/production.rb
+END
+staging.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/3027/lincolnkirstein/bibliography/trunk/config/environments/staging.rb
+END

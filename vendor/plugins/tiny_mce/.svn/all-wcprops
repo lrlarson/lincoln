@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/2983/lincolnkirstein/bibliography/trunk/vendor/plugins/tiny_mce
+END
+CHANGELOG_TINYMCE
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/2983/lincolnkirstein/bibliography/trunk/vendor/plugins/tiny_mce/CHANGELOG_TINYMCE
+END
+SPELLCHECKING_PLUGIN.rdoc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/2983/lincolnkirstein/bibliography/trunk/vendor/plugins/tiny_mce/SPELLCHECKING_PLUGIN.rdoc
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/2983/lincolnkirstein/bibliography/trunk/vendor/plugins/tiny_mce/LICENSE
+END
+Rakefile
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/2983/lincolnkirstein/bibliography/trunk/vendor/plugins/tiny_mce/Rakefile
+END
+DEV_UPGRADE_NOTES.rdoc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/2983/lincolnkirstein/bibliography/trunk/vendor/plugins/tiny_mce/DEV_UPGRADE_NOTES.rdoc
+END
+README.rdoc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/2983/lincolnkirstein/bibliography/trunk/vendor/plugins/tiny_mce/README.rdoc
+END
+VERSION
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/2983/lincolnkirstein/bibliography/trunk/vendor/plugins/tiny_mce/VERSION
+END
+init.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/2983/lincolnkirstein/bibliography/trunk/vendor/plugins/tiny_mce/init.rb
+END
+install.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/2983/lincolnkirstein/bibliography/trunk/vendor/plugins/tiny_mce/install.rb
+END
+tiny_mce.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/2983/lincolnkirstein/bibliography/trunk/vendor/plugins/tiny_mce/tiny_mce.gemspec
+END
+CHANGELOG_PLUGIN.rdoc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/2983/lincolnkirstein/bibliography/trunk/vendor/plugins/tiny_mce/CHANGELOG_PLUGIN.rdoc
+END

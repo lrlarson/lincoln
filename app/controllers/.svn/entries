@@ -1,0 +1,67 @@
+8
+
+dir
+3231
+https://svn.blue-iceberg.com/lincolnkirstein/bibliography/trunk/app/controllers
+https://svn.blue-iceberg.com
+
+
+
+2011-08-12T16:04:56.730873Z
+3226
+sphillips
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+22245988-851d-0410-a813-99e3dc2cabf4
+
+bibliography_controller.rb
+file
+
+
+
+
+2011-08-12T21:44:06.000000Z
+dd32f2daa63017f176091d2c04ffbf07
+2010-10-19T17:27:40.130139Z
+3208
+sphillips
+
+contents_controller.rb
+file
+
+
+
+
+2011-08-12T21:44:06.000000Z
+ecf261e6168289d6cc732b94f3d777c7
+2011-08-12T16:04:56.730873Z
+3226
+sphillips
+
+webadmin
+dir
+
+application_controller.rb
+file
+
+
+
+
+2011-08-12T21:44:06.000000Z
+6ff50d84edd86fb977b707199dd300bd
+2010-04-07T17:14:06.532743Z
+3047
+sphillips
+

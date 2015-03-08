@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/3123/lincolnkirstein/bibliography/trunk/test/fixtures
+END
+categories.yml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/2974/lincolnkirstein/bibliography/trunk/test/fixtures/categories.yml
+END
+works.yml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/2974/lincolnkirstein/bibliography/trunk/test/fixtures/works.yml
+END
+admins.yml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/3123/lincolnkirstein/bibliography/trunk/test/fixtures/admins.yml
+END
+admin_sessions.yml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/3123/lincolnkirstein/bibliography/trunk/test/fixtures/admin_sessions.yml
+END

@@ -1,0 +1,67 @@
+<div id="content_full">
+	<h2>Add New Entry</h2>
+	<% form_for [:webadmin,@work] do |f| %>
+		<table cellspacing="0" class="admin">
+			<tr>
+				<td class="heading" colspan=2>Bibliographical Entry No.</td>
+			</tr>
+			<tr>
+		    <td colspan=2><%= f.text_field :reference_id, :size => "10" %></td>
+			</tr>
+			<tr>
+				<td class="heading" colspan=2>Title</td>
+			</tr>
+			<tr>
+		    <td colspan=2><%= f.text_area :title, :size => "46", :class => "mceEditor" %></td>
+			</tr>
+			<tr>
+				<td class="heading" colspan=2>Location</td>
+			</tr>
+			<tr>
+				<td colspan=2><%= f.text_field :city_publisher, :size => "30" %></td>
+			</tr>
+			<tr>
+				<td class="heading" colspan=2>Year</td>
+			</tr>
+			<tr>
+				<td colspan=2><%= f.text_field :year, :size => "4" %></td>
+			</tr>
+			<tr>
+				<td class="heading" colspan=2>Publication</td>
+			</tr>
+			<tr>
+				<td colspan=2><%= f.text_field :publication, :size => "30" %></td>
+			</tr>
+			<tr>
+				<td class="heading" colspan=2>Venue</td>
+			</tr>
+			<tr>
+				<td colspan=2><%= f.text_field :venue, :size => "30" %></td>
+			</tr>
+			<tr>
+				<td class="heading" colspan=2>Bibliographical Entry</td>
+			</tr>
+			<tr>
+				<td colspan=2><%= f.text_area :display, :size => "46", :class => "mceEditor" %></td>
+			</tr>
+			<tr>
+				<td class="heading" colspan=2>Related Entries</td>
+			</tr>
+			<tr>
+				<td colspan=2><%= f.text_field :related %></td>
+			</tr>
+			<tr>
+				<td class="heading" colspan=2>Category</td>
+			</tr>							
+			<% for cat in Category.find(:all, :conditions => ["parent_id > 0"]) %>				
+			<tr>
+				<td class="check_box" valign="top"><%= check_box_tag "work[category_ids][]", cat.id %></td>
+				<td class="list"><%= cat.parent.name %>: <span class="bodyitalic"><%= cat.name %></span></td>
+			</tr>
+			<% end %>	
+	</table>
+			
+	<%= f.submit "Add New Entry" %>
+	<br class="clear"><br class="clear"><%= link_to "Cancel", webadmin_works_path, :class => "cancel" %>
+	<% end %>
+</div>

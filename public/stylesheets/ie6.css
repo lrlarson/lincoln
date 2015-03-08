@@ -1,0 +1,75 @@
+/* IE6 navigation fix for hovers */ 
+
+body { 
+	behavior:url(stylesheets/csshover.htc); 
+}
+
+
+form.search_form #submitSearch {
+	margin: 20px 17px 10px 0px;
+}
+
+form.search_form select#category_basic_id {
+	width: 200px;
+}
+
+#adv_search div {
+	width: 158px;
+	margin-left: 3px;
+}
+
+#adv_search div input#category_ {
+	padding: 0px;
+	margin: 0px 0px 0px 0px;
+}
+
+ul#date_menu li a {
+	width: 120px;
+}
+
+.main_nav li ul li.double a {
+    padding: 5px 3px 7px 22px;
+}
+
+.main_nav li ul li.double a:hover {
+    padding: 5px 3px 7px 22px;
+}
+
+.main_nav li ul li.double a:hover {
+    padding: 5px 3px 7px 22px;
+}
+
+.main_nav li ul li.double a:visited {
+    padding: 5px 3px 7px 22px;
+}
+
+.main_nav li ul li.double a:visited:hover {
+    padding: 5px 3px 7px 22px;
+}
+
+#content_full form .arrows {
+	margin: 0px 0px 15px 350px;
+}
+
+.main_nav li:hover {
+	background-color: #6f091a;
+	cursor: hand;
+}
+
+.main_nav li:hover a {
+	color:#fff;
+}
+
+.main_nav li:hover li a {
+	color:#fff;
+}
+
+.main_nav li:hover > a  {
+	background-color: #6f091a;
+    cursor: hand;
+	color:#fff;
+}
+
+#slideshow_caption span {
+	margin: 5px 0px 0px 95px;
+}

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/3123/lincolnkirstein/bibliography/trunk/app/helpers/webadmin
+END
+admin_sessions_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/3123/lincolnkirstein/bibliography/trunk/app/helpers/webadmin/admin_sessions_helper.rb
+END
+works_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/2980/lincolnkirstein/bibliography/trunk/app/helpers/webadmin/works_helper.rb
+END
+reprints_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/2995/lincolnkirstein/bibliography/trunk/app/helpers/webadmin/reprints_helper.rb
+END

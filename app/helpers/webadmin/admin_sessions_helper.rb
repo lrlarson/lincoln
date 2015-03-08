@@ -1,0 +1,2 @@
+module Webadmin::AdminSessionsHelper
+end

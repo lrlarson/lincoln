@@ -1,0 +1,216 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/2000/REC-xhtml1-20000126/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml"> 
+<head> 
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8" /> 
+	<title>Lincoln Kirstein Bibliography | About</title> 
+	<script src="/javascripts/_jquery.js?1266353821" type="text/javascript"></script> 
+	<script src="/javascripts/application.js?1270841983" type="text/javascript"></script> 
+	<script src="/javascripts/pngfix.js?1270845969" type="text/javascript"></script> 
+	<script src="/javascripts/tablesorter.js?1266353928" type="text/javascript"></script> 
+	<script src="/javascripts/tablesorter.pager.js?1268249798" type="text/javascript"></script> 
+		
+	<link href="/stylesheets/ie6.css?1271092914" media="screen" rel="stylesheet" type="text/css" /> 
+	<link href="/stylesheets/style.css?1271092914" media="screen" rel="stylesheet" type="text/css" /> 
+	<link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+	<!--[if lte IE 6]> 
+		<link href="stylesheets/ie6.css" rel="stylesheet" type="text/css" >
+		<script defer type="text/javascript" src="javascripts/pngfix.js"></script>
+	<![endif]--> 
+</head> 
+<body> 
+	<div id="wrapper"> 
+		<div class="main_nav">	
+			<ul> 
+	 			<li class="first_divider">&nbsp;</li> <!-- Must have for divider --> 	
+				<li><a href="/">Home</a></li> 		
+				<li class="current">About Lincoln Kirstein</li> 		
+				<li><a href="/bibliography">Bibliography</a> 
+					<ul> 
+						<li><a href="/bibliography?cat_id=1">Fiction</a></li> 
+						<li><a href="/bibliography?cat_id=2">Poetry</a></li> 
+						<li><a href="/bibliography?cat_id=3">Drama &amp; Ballet Libretti</a></li> 
+						<li><a href="/bibliography?cat_id=4">On Dance</a></li> 
+						<li class="double"><a href="/bibliography?cat_id=5">On Drawing, Painting, Sculpture &amp; Architecture</a></li> 
+						<li><a href="/bibliography?cat_id=6">On Photography</a></li> 
+						<li><a href="/bibliography?cat_id=7">On Film</a></li> 
+						<li><a href="/bibliography?cat_id=8">On Music &amp; Drama</a></li> 
+						<li class="double"><a href="/bibliography?cat_id=9">On Literature, History, Politics &amp; Other Subjects</a></li> 
+						<li><a href="/bibliography?cat_id=10">Memoir</a></li> 
+					</ul> 
+				</li> 			
+			</ul>
+			<div class="search_wrapper_home">
+							<form action="/bibliography" id="search_form_home" method="get">						
+								<input id="search_field" name="search_field" onfocus="this.value=''" type="text" value="Search Bibliography" />
+								<select id="category_basic_id" name="category_basic_id"><option value="">Search By Category</option>
+
+			<option value="1">Fiction</option>
+			<option value="2">Poetry</option>
+			<option value="3">Drama &amp; Ballet Libretti</option>
+			<option value="4">On Dance</option>
+			<option value="5">On Drawing, Painting, Sculpture &amp; Architecture</option>
+			<option value="6">On Photography</option>
+			<option value="7">On Film</option>
+
+			<option value="8">On Music &amp; Drama</option>
+			<option value="9">On Literature, History, Politics &amp; Other Subjects</option>
+			<option value="10">Memoir</option></select>		
+								<input id="search_btn" name="commit" type="submit" value="" />
+							</form>
+						</div>
+			
+			<br /><br /> 
+		</div> 
+		<div id="lincolnkirstein_print">
+				<img src="/images/logo_print.gif" width="194" height="95" alt="Logo Print">		
+		</div>
+		<div id="mainbody_wrapper"> 
+			<div id="interior_header"> 
+				<a id="logo_link" href="/" style="outline:none"></a> 
+			</div> 
+			<div id="chronology_wrapper">
+				<div id="chronology_nav">
+					<ul id="date_menu">
+						<li><a href="/about/">Introduction</a></li>
+						<li><a href="1907-1926.html">1907 - 1926</a></li>
+						<li><a href="1927-1936.html">1927 - 1936</a></li>
+						<li><a href="1937-1946.html">1937 - 1946</a></li>
+						<li><a href="1947-1956.html">1947 - 1956</a></li>
+						<li><a href="1957-1966.html">1957 - 1966</a></li>
+						<li><a href="1967-1976.html">1967 - 1976</a></li>
+						<li><a href="1977-1986.html">1977 - 1986</a></li>
+						<li><a class="active" href="1987-1996.html">1987 - 1996</a></li>
+						<li class="last"><a href="posthumous.html">Posthumous</a></li>				
+					</ul>
+					<div id="chronology_content">
+						<h1>1987-1996</h1>
+						<p><span class="date">1987</span><br/> 
+						Publication of <span class="bodyitalic">Quarry: A Collection in Lieu of Memoirs.</span><br/><br/>
+
+						<span class="date">1987 April</span><br/> 
+						A birthday tribute to Clement Crisp appears in the Royal Opera House, Covent Garden, journal <span class="bodyitalic">About the House</span> (pages 46–49).<br/><br/>
+
+						<span class="date">1987 May 4, 10</span><br/> 
+						Birthday presentation edition by the Eakins Press Foundation followed by trade edition publication of <span class="bodyitalic">The Poems of Lincoln Kirstein.</span><br/><br/>
+
+						<span class="date">1987 May 5</span><br/> 
+						The School of American Ballet becomes the eleventh constituent member of Lincoln Center for the Performing Arts.<br/><br/>
+
+						<span class="date">1987 May 18</span><br/> 
+						Eightieth birthday is celebrated at the New York State Theater; receives from Mayor Edward Koch the Handel Medallion that was awarded in 1973. Commissions a new production of <span class="bodyitalic">The Sleeping Beauty</span> for New York City Ballet choreographed by Peter Martins; designs for scenery by David Mitchell and costumes by Patricia Zipprodt are presented to the invited audience of friends.<br/><br/>
+
+						<span class="date">1987 May</span><br/> 
+						"Lincoln Kirstein Turns Eighty" by Susan Sontag appears in <span class="bodyitalic">Vanity Fair</span> (page 28).<br/><br/>
+
+						<span class="date">1987 June 4</span><br/> 
+						New York City Ballet premiere of commissioned new production by Alain Va&euml;s of Balanchine's <span class="bodyitalic">La Sonnambula.</span><br/><br/>
+
+						<span class="date">1987 June</span><br/> 
+						"Portrait of a Culture Hero" by Julie Kavanagh appears in <span class="bodyitalic">Harper's &amp; Queen</span> (pages 132, 134–135, 204, 224).<br/><br/>
+
+						<span class="date">1987 July 11</span><br/> 
+						Inducted with George Balanchine among the thirteen initial honorees in the Dance Hall of Fame at the new National Museum of Dance in Saratoga Springs, New York.<br/><br/>
+
+						<span class="date">1987 October 31-October 8, 1989</span><br/> 
+						<span class="bodyitalic">Impressions of a New Civilization: The Lincoln Kirstein Collection of Japanese Prints (1860–1912)</span> tours the country under the auspices of The Metropolitan Museum of Art and the Smithsonian Institution Traveling Exhibition Service.<br/><br/>
+
+						<span class="date">1989</span><br/> 
+						Publication of <span class="bodyitalic">Memorial to a Marriage.</span><br/><br/>
+
+						<span class="date">1989 March</span><br/> 
+						The film <span class="bodyitalic">Glory,</span> with screenplay by Kevin Jarre inspired by <span class="bodyitalic">Lay This Laurel,</span> wins Academy Awards for supporting actor, cinematography, and sound.<br/><br/>
+
+						<span class="date">1989 September 12</span><br/> 
+						Donates various paintings and drawings to the School of American Ballet. Subsequent auction by the school at Christie's benefits the School's building project.<br/><br/>
+
+						<span class="date">1989 November 1</span><br/> 
+						Retires as General Director of the New York City Ballet and President of the School of American Ballet.<br/><br/>
+
+						<span class="date">1990 May</span><br/> 
+						<span class="bodyitalic">The Classic Ballet</span> reaches twenty-fourth continuous printing.<br/><br/>
+
+						<span class="date">1990 June 2</span><br/> 
+						The School of American Ballet workshop premiere of <span class="bodyitalic">Puss in Boots (The Master Cat),</span> commissioned by Lincoln Kirstein, who also wrote the scenario and collaborated on production with choreographer Robert LaFosse, composer Larry Spivack, and designer Gary Lisz.<br/><br/>
+
+						<span class="date">1990 June 27</span><br/> 
+						New York City Ballet premiere of <span class="bodyitalic">A Mass (Missa Sicca),</span> presented in memory of Joseph Duell. The production, made possible by a gift "given in admiration of Philip Johnson's and Lincoln Kirstein's remarkable achievements," was staged by Peter Martins and Robert LaFosse to a commissioned score by Michael Torke, with "architecture" by Philip Johnson.<br/><br/>
+
+						<span class="date">1990 October 29</span><br/>
+						Honored by the Trustees of the Augustus Saint-Gaudens Memorial with a gold-leaf palm frond "for contributions to the memory of Augustus Saint-Gaudens and to the appreciation and preservation of the artist's work."<br/><br/>
+
+						<span class="date">1990</span><br/> 
+						Commissions artist George M. Kelly to create a bust of George Balanchine to be placed in the new School of American Ballet lobby. It is to be paired with a bust of Lincoln Kirstein by Gaston Lachaise.<br/><br/>
+
+						<span class="date">1991</span><br/> 
+						Publication of <span class="bodyitalic">By With To &amp; From: A Lincoln Kirstein Reader.</span><br/><br/>
+
+						<span class="date">1991 January 2</span><br/> 
+						School of American Ballet opens its studio-dormitory facilities in the new Samuel B. and David Rose building at Lincoln Center exactly fifty-seven years after the School's founding. This is the first time in its history that the School has owned its own home.<br/><br/>
+
+						<span class="date">1991 January 9</span><br/> 
+						Speaks at the official opening of the new School of American Ballet facility. The date is proclaimed "School of American Ballet Day" by Mayor David N. Dinkins.<br/><br/>
+
+						<span class="date">1991 April 24</span><br/> 
+						New York City Ballet premiere of <span class="bodyitalic">The Sleeping Beauty,</span> co-produced and with scenario by Lincoln Kirstein, staged by Peter Martins.<br/><br/>
+
+						<span class="date">1991 Winter</span><br/>
+						"Balanchine as Teacher," a transcript of the October 1985 symposium, is published in <span class="bodyitalic">Ballet Review</span> (pages 61–97).<br/><br/>
+
+						<span class="date">1992</span><br/>
+						Publication of <span class="bodyitalic">Puss in Boots,</span> illustrated by Alain Va&euml;s.<br/><br/>
+
+						<span class="date">1992 March</span><br/> 
+						Publication of <span class="bodyitalic">Paul Cadmus,</span> in conjunction with the exhibition <span class="bodyitalic">Paul Cadmus</span> at Midtown Payson Galleries, New York.<br/><br/>
+
+						<span class="date">1992 April 6</span><br/> 
+						Announces an eight-week Balanchine Celebration by the New York City Ballet, during which seventy-three Balanchine ballets will be performed, to commence on Lincoln Kirstein's eighty-sixth birthday, May 4, 1993.<br/><br/>
+
+						<span class="date">1994</span><br/> 
+						Publication of <span class="bodyitalic">Tchelitchev.</span><br/><br/>
+
+						<span class="date">1994</span><br/> 
+						Publication of <span class="bodyitalic">Mosaic.</span><br/><br/>
+
+						<span class="date">1996 January 5</span><br/>
+						Death of Lincoln Kirstein.<br/><br/><br/>
+						<a href="#wrapper"><img src="../images/top_btn.gif" width="19" height="19" alt="" class="top_btn" border="0"></a><a href="#wrapper">Back to top</a></p>
+					</div>			
+				</div>						
+				<div id="sidebar_images">
+					<p></p>
+				</div>				
+				<br class="clear">
+			</div>		
+			<br class="clear">
+		</div>
+		<!-- END mainbody_wrapper --> 
+		<div id="footer">
+			<div id="left_links">
+				<img src="../images/footer_crest.gif" width="46" height="16" alt="" /><p>&copy; <a href="http://www.eakinspress.com/" target="_blank">Eakins Press Foundation</a> &amp; Ballet Society, <script type="text/javascript">
+					var theDate=new Date();
+					document.write(theDate.getFullYear());
+				</script>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/resources/">Resources</a></p>
+			</div>	
+			<div id="right_links">
+				<p><a href="/credits/">Credits</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://blue-iceberg.com">Website by Blue Iceberg</a></p>
+			</div>
+		</div>
+		<!-- END footer -->
+	</div> 
+	<!-- END wrapper --> 
+	<script type="text/javascript">
+
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-435173-33']);
+	  _gaq.push(['_trackPageview']);
+
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+
+	</script>
+</body> 
+</html> 

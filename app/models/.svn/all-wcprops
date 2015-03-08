@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/3123/lincolnkirstein/bibliography/trunk/app/models
+END
+category.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/3018/lincolnkirstein/bibliography/trunk/app/models/category.rb
+END
+work.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/3027/lincolnkirstein/bibliography/trunk/app/models/work.rb
+END
+admin.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/3123/lincolnkirstein/bibliography/trunk/app/models/admin.rb
+END
+content.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/3022/lincolnkirstein/bibliography/trunk/app/models/content.rb
+END
+admin_session.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/3123/lincolnkirstein/bibliography/trunk/app/models/admin_session.rb
+END

@@ -1,0 +1,6 @@
+<% if @results.blank? %>
+	<div id="content_left"><%= render :partial => 'search' %></div>
+	<div id="content_right"><%= render :partial => 'static_content' %></div>
+<% else %>	
+	<%= render :partial => 'results' %>
+<% end %>	

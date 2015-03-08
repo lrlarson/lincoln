@@ -1,0 +1,101 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/2000/REC-xhtml1-20000126/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<%= render :partial => 'layouts/head' %>
+<body>
+	<div id="wrapper">
+		<div class="main_nav">
+			<%= render :partial => 'layouts/navigation' %>
+			<div class="search_wrapper_home">
+				<% form_tag '/bibliography', :id => "search_form_home", :method => "GET" do -%>						
+					<%= text_field_tag :search_field, 'Search Bibliography', :onfocus => "this.value=''"%>
+					<%= select_tag "category_basic_id", options_for_select([["Search By Category",""]] + @categories.collect{|c| [c.name,c.id]}) %>		
+					<%= submit_tag "Search", :id => "search_btn", :value => "" %>
+				<% end %>
+			</div>
+			</div>
+			<div id="mainbody_wrapper">
+				<div id="top_gradient_home">
+				</div>
+				<div id="content_left_home">
+					<div id="slideshow">
+							<img src="images/slideshow_1.jpg" width="391" height="372" alt="" />
+							<img src="images/slideshow_2.jpg" width="391" height="372" alt="" />
+							<img src="images/slideshow_3.jpg" width="391" height="372" alt="" />
+							<img src="images/slideshow_4.jpg" width="391" height="372" alt="" />
+							<img src="images/slideshow_5.jpg" width="391" height="372" alt="" />						
+							<img src="images/slideshow_6.jpg" width="391" height="372" alt="" />						
+							<img src="images/slideshow_7.jpg" width="391" height="372" alt="" />						
+							<img src="images/slideshow_8.jpg" width="391" height="372" alt="" />						
+							<img src="images/slideshow_9.jpg" width="391" height="372" alt="" />						
+							<img src="images/slideshow_10.jpg" width="391" height="372" alt="" />						
+							<img src="images/slideshow_11.jpg" width="391" height="372" alt="" />						
+					</div>
+					<div id="slideshow_caption">
+						<span id="caption_1">Lincoln Kirstein, 1929, by Isamu Noguchi</span>
+						<span id="caption_2"></span>
+						<span id="caption_3"></span>
+						<span id="caption_4"></span>
+						<span id="caption_5"></span>
+						<span id="caption_6"></span>
+						<span id="caption_7"></span>
+						<span id="caption_8"></span>
+						<span id="caption_9"></span>
+						<span id="caption_10"></span>
+						<span id="caption_11"></span>
+					</div>
+					<br class="clear" />
+				</div> 
+				<div id="content_right_home">
+					<img src="images/cartouche_home.png" width="433" height="290" alt="The Published Writings Lincoln Kirstein" />
+				<%= yield %>				
+				</div>
+			</div>	
+			<!-- END mainbody_wrapper -->
+			<div id="footer">
+				<div id="left_links">
+					<img src="images/footer_crest.gif" width="41" height="14" alt="" /><p>&copy; <a href="http://www.eakinspress.com/" target="_blank">Eakins Press Foundation</a> &amp; Ballet Society, Inc., <%= Date.today.year %>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/resources/">Resources</a></p>
+				</div>	
+				<div id="right_links">
+					<p><a href="/credits/">Credits</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://blue-iceberg.com">Website by Blue Iceberg</a></p>
+				</div>
+			</div>
+			<!-- END footer -->
+	</div>
+	<!-- END wrapper -->
+	
+	<script type="text/javascript">
+
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-435173-33']);
+	  _gaq.push(['_trackPageview']);
+
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+
+	</script>
+		
+</body>
+<script language="javascript">
+    $(document).ready(function() {
+         $('#toggleButton').click(function() {
+              if ($('#toggleSection').is(":hidden"))
+              {
+                   $('#toggleSection').slideDown("slow");
+				   $('#toggleButton').hide();
+              } else {
+                   $('#toggleSection').slideUp("slow");
+              }
+              return false;
+         });
+    });
+</script>
+<script type="text/javascript"> 
+    $(document).ready(function(){ 
+        $(document).pngFix(); 
+    }); 
+</script>
+</html>

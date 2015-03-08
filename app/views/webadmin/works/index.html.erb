@@ -1,0 +1,16 @@
+<div id="content_full">
+	<h2>Works Index</h2><br/>
+	<% form_tag '/webadmin/works', :method => "GET" do -%>
+		<p>Index #:&nbsp;&nbsp;&nbsp;<%= text_field_tag :reference_id, params[:keyword] %><br />
+		<p>Keyword:&nbsp;<%= text_field_tag :keyword, params[:keyword] %>
+		<%= submit_tag "Search", :id => "submitSearch" %></p>
+	<% end %>
+	<%= flash[:notice] %>
+	<br class="clear"><br class="clear">
+	<%= link_to "New Entry", new_webadmin_work_path, :class => "new" %>
+	<% if @results %>
+		<%= render :partial => "webadmin/works/results" %>
+	<% else %>
+		<%= render :partial => "webadmin/works/list" %>
+	<% end %>
+</div>

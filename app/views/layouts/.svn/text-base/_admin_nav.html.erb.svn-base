@@ -1,0 +1,1 @@
+<%= link_to 'Webadmin Home', '/webadmin/works' %> | <%= link_to 'Add New Entry', '/webadmin/works/new' %> | <%= link_to 'Log Out', '/webadmin/logout' %>

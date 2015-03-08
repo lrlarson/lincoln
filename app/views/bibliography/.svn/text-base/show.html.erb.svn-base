@@ -1,0 +1,38 @@
+<div id="content_full">
+<h3>Entries for <%= @work.title.gsub("<p>",'').gsub("</p>",'') %></h3>
+<br class="clear">
+<p>Click on any heading to sort.</p>
+<br class="clear">
+<table id="show_results" class="tablesorter">
+	<thead>
+		<tr>	
+			<th width="40" class="headerSortDown">No.</th>
+			<th width="45">Year</th>
+			<th width="330">Title: Bibliographical Entry</th>
+			<th width="165">Location: Publisher</th>
+			<th width="165">Category: Subcategory</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td width="40" align="center"><%= @work.reference_id %></td>				
+			<td width="45" align="center"><%= @work.year %></td>
+			<td width="330"><%= @work.title.gsub("<p>",'').gsub("</p>",'') %><br /><p class="indent"><%= @work.display.gsub("<p>",'').gsub("</p>",'') %></p></td>
+			<td width="165"><%= @work.city_publisher %></td>				
+			<td width="165"><% @work.categories.each do |c| %><%= c.parent.name %><br /><span class="subcategory"><%= c.name %></span><br /><% end %></td>
+		</tr>
+		<% @children.each do |c| %>
+			<tr>
+				<td width="40" align="center"><%= c.reference_id %></td>				
+				<td width="45" align="center"><%= c.year %></td>
+				<td width="330"><%= c.title.gsub("<p>",'').gsub("</p>",'') %><br /><p class="indent"><%= c.display.gsub("<p>",'').gsub("</p>",'') %></p></td>
+				<td width="165"><%= c.city_publisher %></td>				
+				<td width="165"><% c.categories.each do |s| %><%= s.parent.name %><br /><span class="subcategory"><%= s.name %></span><br /><% end %></td>
+			</tr>
+		<% end %>
+</table><br />
+<p class="left_link"><a href="javascript:history.go(-1)">&laquo; Back</a></p>
+
+<p class="right_link"><a href="/bibliography" id="back_to_search">New Search &raquo;</a></p>
+<br class="clear">
+</div>

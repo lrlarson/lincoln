@@ -1,0 +1,65 @@
+<div id="content_full">
+	<h2>Add New Reprint</h2><br/>
+	<h3>Work Selected:</h3><br class="clear">
+		<p class="reprint"><%= @parent.reference_id %>&nbsp;<%= @parent.display %></p>
+		<% @children.each do |c| %>
+		<p class="reprint"><%= c.reference_id %>&nbsp;<%= c.display %></p>
+		<% end %>
+		<% form_for [:webadmin,@reprint] do |f| %>
+			<table cellspacing="0" class="admin">
+				<tr>
+					<td class="heading">Bibliographical Entry No.</td>
+				</tr>
+				<tr>
+			    <td><%= f.text_field :reference_id, :size => "10" %></td>
+				</tr>
+				<tr>
+					<td class="heading">Title</td>
+				</tr>
+				<tr>
+			    <td><%= f.text_area :title, :size => "30", :class => "mceEditor", :value => @parent.title %></td>
+				</tr>
+				<tr>
+					<td class="heading">Location</td>
+				</tr>
+				<tr>
+					<td><%= f.text_field :city_publisher, :size => "30" %></td>
+				</tr>
+				<tr>
+					<td class="heading">Year</td>
+				</tr>
+				<tr>
+					<td><%= f.text_field :year, :size => "4" %></td>
+				</tr>
+				<tr>
+					<td class="heading">Publication</td>
+				</tr>
+				<tr>
+					<td><%= f.text_field :publication, :size => "30" %></td>
+				</tr>
+				<tr>
+					<td class="heading">Venue</td>
+				</tr>
+				<tr>
+					<td><%= f.text_field :venue, :size => "30" %></td>
+				</tr>
+				<tr>
+					<td class="heading">Bibliographical Entry</td>
+				</tr>
+				<tr>
+					<td><%= f.text_area :display, :size => "50", :class => "mceEditor" %></td>
+				</tr>
+				<tr>
+					<td class="heading" colspan=2>Related Entries</td>
+				</tr>
+				<tr>
+					<td colspan=2><%= f.text_field :related %></td>
+				</tr>
+				<tr>
+					<td><%= f.hidden_field :parent_id, :value => @parent.id %></td>
+				</tr>		
+			</table>
+		<%= f.submit "Add New Reprint"  %>
+		<br class="clear"><br class="clear"><%= link_to "Cancel", webadmin_works_path, :class => "cancel" %>
+		<% end %>
+</div>

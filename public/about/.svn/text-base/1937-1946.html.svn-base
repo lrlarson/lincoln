@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/2000/REC-xhtml1-20000126/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml"> 
+<head> 
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8" /> 
+	<title>Lincoln Kirstein Bibliography | About</title> 
+	<script src="/javascripts/_jquery.js?1266353821" type="text/javascript"></script> 
+	<script src="/javascripts/application.js?1270841983" type="text/javascript"></script> 
+	<script src="/javascripts/pngfix.js?1270845969" type="text/javascript"></script> 
+	<script src="/javascripts/tablesorter.js?1266353928" type="text/javascript"></script> 
+	<script src="/javascripts/tablesorter.pager.js?1268249798" type="text/javascript"></script> 
+		
+	<link href="/stylesheets/ie6.css?1271092914" media="screen" rel="stylesheet" type="text/css" /> 
+	<link href="/stylesheets/style.css?1271092914" media="screen" rel="stylesheet" type="text/css" /> 
+	<link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+	<!--[if lte IE 6]> 
+		<link href="stylesheets/ie6.css" rel="stylesheet" type="text/css" >
+		<script defer type="text/javascript" src="javascripts/pngfix.js"></script>
+	<![endif]--> 
+</head> 
+<body> 
+	<div id="wrapper"> 
+		<div class="main_nav">	
+			<ul> 
+	 			<li class="first_divider">&nbsp;</li> <!-- Must have for divider --> 	
+				<li><a href="/">Home</a></li> 		
+				<li class="current">About Lincoln Kirstein</li> 		
+				<li><a href="/bibliography">Bibliography</a> 
+					<ul> 
+						<li><a href="/bibliography?cat_id=1">Fiction</a></li> 
+						<li><a href="/bibliography?cat_id=2">Poetry</a></li> 
+						<li><a href="/bibliography?cat_id=3">Drama &amp; Ballet Libretti</a></li> 
+						<li><a href="/bibliography?cat_id=4">On Dance</a></li> 
+						<li class="double"><a href="/bibliography?cat_id=5">On Drawing, Painting, Sculpture &amp; Architecture</a></li> 
+						<li><a href="/bibliography?cat_id=6">On Photography</a></li> 
+						<li><a href="/bibliography?cat_id=7">On Film</a></li> 
+						<li><a href="/bibliography?cat_id=8">On Music &amp; Drama</a></li> 
+						<li class="double"><a href="/bibliography?cat_id=9">On Literature, History, Politics &amp; Other Subjects</a></li> 
+						<li><a href="/bibliography?cat_id=10">Memoir</a></li> 
+					</ul> 
+				</li> 			
+			</ul>
+			<div class="search_wrapper_home">
+							<form action="/bibliography" id="search_form_home" method="get">						
+								<input id="search_field" name="search_field" onfocus="this.value=''" type="text" value="Search Bibliography" />
+								<select id="category_basic_id" name="category_basic_id"><option value="">Search By Category</option>
+
+			<option value="1">Fiction</option>
+			<option value="2">Poetry</option>
+			<option value="3">Drama &amp; Ballet Libretti</option>
+			<option value="4">On Dance</option>
+			<option value="5">On Drawing, Painting, Sculpture &amp; Architecture</option>
+			<option value="6">On Photography</option>
+			<option value="7">On Film</option>
+
+			<option value="8">On Music &amp; Drama</option>
+			<option value="9">On Literature, History, Politics &amp; Other Subjects</option>
+			<option value="10">Memoir</option></select>		
+								<input id="search_btn" name="commit" type="submit" value="" />
+							</form>
+						</div>
+			
+			<br /><br /> 
+		</div> 
+		<div id="lincolnkirstein_print">
+				<img src="/images/logo_print.gif" width="194" height="95" alt="Logo Print">		
+		</div>
+		<div id="mainbody_wrapper"> 
+			<div id="interior_header"> 
+				<a id="logo_link" href="/" style="outline:none"></a> 
+			</div> 
+			<div id="chronology_wrapper">
+				<div id="chronology_nav">
+					<ul id="date_menu">
+						<li><a href="/about/">Introduction</a></li>
+						<li><a href="1907-1926.html">1907 - 1926</a></li>
+						<li><a href="1927-1936.html">1927 - 1936</a></li>
+						<li><a class="active" href="1937-1946.html">1937 - 1946</a></li>
+						<li><a href="1947-1956.html">1947 - 1956</a></li>
+						<li><a href="1957-1966.html">1957 - 1966</a></li>
+						<li><a href="1967-1976.html">1967 - 1976</a></li>
+						<li><a href="1977-1986.html">1977 - 1986</a></li>
+						<li><a href="1987-1996.html">1987 - 1996</a></li>
+						<li class="last"><a href="posthumous.html">Posthumous</a></li>				
+		
+					</ul>
+					<div id="chronology_content">
+						<h1>1937-1946</h1>
+						<p><span class="date">1937 April</span><br/> 
+						American Ballet Company Stravinsky Festival, in close association with the composer, including premiere of <span class="bodyitalic">Jeu de Cartes,</span> commissioned by Lincoln Kirstein and George Balanchine: Metropolitan Opera House.<br/><br/>
+
+						<span class="date">1938</span><br/> 
+						Arranges the first major exhibition of Walker Evans' photographs at the Museum of Modern Art and writes the text for <span class="bodyitalic">Walker Evans: American Photographs.</span><br/><br/>
+
+						<span class="date">1938</span><br/> 
+						Ballet Caravan tour to Havana.<br/><br/>
+
+						<span class="date">1938 October 16</span><br/> 
+						Ballet Caravan premiere of <span class="bodyitalic">Billy the Kid,</span> libretto by Lincoln Kirstein, choreography by Eugene Loring to music commissioned for the ballet from Aaron Copland: Chicago Civic Theater.<br/><br/>
+
+						<span class="date">1939</span><br/> 
+						Publication of <span class="bodyitalic">Ballet Alphabet: A Primer for Laymen,</span> with drawings by Paul Cadmus.<br/><br/>
+
+						<span class="date">1939</span><br/>
+						Joins Jay Leyda, Mary Losey, Robert Stebbins, and Lee Strasberg in founding the journal <span class="bodyitalic">Films.</span><br/><br/>
+
+						<span class="date">1939 May</span><br/> 
+						The American Ballet Company participates in the first season of the American Lyric Theatre, New York City.<br/><br/>
+
+						<span class="date">1940</span><br/> 
+						Presents his collection of more than five thousand books and documents on dance to the Museum of Modern Art to form the nucleus of an American archives of the dance; later transferred to the Dance Collection of the New York Public Library.<br/><br/>
+
+						<span class="date">1940</span><br/> 
+						At the suggestion of Walter Dorwin Teague produces <span class="bodyitalic">A Thousand Times Neigh!</span> for the Ford Motor Company at the New York World's Fair, performed by the dancers of Ballet Caravan for six months and thought to have been seen by a million persons.<br/><br/>
+
+						<span class="date">1941 April</span><br/> 
+						Marries Fidelma Cadmus.<br/><br/>
+
+						<span class="date">1941-1943</span><br/> 
+						Consultant to the Museum of Modern Art on Latin-American art; travels in South America to purchase painting and sculpture in 1942; writes the catalogue for the exhibition <span class="bodyitalic">The Latin American Collection of the Museum of Modern Art</span> in 1943.<br/><br/>
+
+						<span class="date">1941</span><br/> 
+						American Ballet Caravan (the combined American Ballet Company and Ballet Caravan) tours Latin America under the aegis of the United States Office for Coordination of Commercial and Cultural Relations Between the American Republics, through the agency of Nelson A. Rockefeller, Coordinator of Inter-American Affairs. In Argentina meets Rosa Mar&iacute;a Oliver and Victoria Ocampo, principal forces in bringing international culture to South America.<br/><br/>
+
+						<span class="date">1942</span><br/> 
+						Founds the magazine <span class="bodyitalic">Dance Index</span> with Baird Hastings and Paul Magriel; is one of its editors and a principal contributor through the final issue in 1948; engages Donald Windham as editor 1943–1945, and Marian Eames as managing editor 1946–1948.<br/><br/>
+
+						<span class="date">1943</span><br/> 
+						Publication of the novel <span class="bodyitalic">For My Brother,</span> based on a Mexican sojourn.<br/><br/>
+
+						<span class="date">1943</span><br/>
+						Joins the United States Army; while stationed at Fort Belvoir with the Corps of Engineers studies the history of American battle art.<br/><br/>
+
+						<span class="date">1944</span><br/> 
+						Publication of <span class="bodyitalic">American Battle Painting: 1776–1918,</span> catalogue of the exhibition shown at the National Gallery of Art in Washington, and the Museum of Modern Art.<br/><br/>
+
+						<span class="date"><a name="1945" class="anchor">1944-1945</a></span><br/>
+						Overseas duty in England, France, and Germany, including a period as chauffeur to General George S. Patton.<br/><br/>
+
+						<span class="date">1945 May</span><br/> 
+						With Captain Robert K. Posey, Monuments, Fine Arts and Archives Officer, Third United States Army, discovers (in the Steinberg Salt Mine at Alt Aussee) and supervises the recovery of the massive collection of art looted by the Nazis, intended for Hitler's proposed F&#252;hrer Museum in Linz; later decorated by the Government of the Netherlands for his service.<br/><br/>
+
+						<span class="date">1945 Fall</span><br/> 
+						Honorable discharge from the Army, Private First Class.<br/><br/>
+
+						<span class="date">1946</span><br/> 
+						Publication of <span class="bodyitalic">William Rimmer,</span> catalogue of the exhibition arranged by the author for the Whitney Museum and the Boston Museum of Fine Arts.<br/><br/>
+
+						<span class="date">1946 Fall</span><br/> 
+						With George Balanchine forms Ballet Society, Inc., a subscription- supported association to further lyric theater in America.<br/><br/> 
+
+						<span class="date">1946 November 20</span><br/> 
+						First Ballet Society performance: Central High School of Needle Trades, New York City. American premiere of Ravel's <span class="bodyitalic">The Spellbound Child</span> with choreography by George Balanchine; premiere of <span class="bodyitalic">The Four Temperaments,</span> Balanchine's ballet to music commissioned by him and Lincoln Kirstein from Paul Hindemith in 1940. Season includes performances of Gian Carlo Menotti's <span class="bodyitalic">The Medium</span> and <span class="bodyitalic">The Telephone</span> (commissioned by Ballet Society).<br/><br/><br/>
+						<a href="#wrapper"><img src="../images/top_btn.gif" width="19" height="19" alt="" class="top_btn" border="0"></a><a href="#wrapper">Back to top</a></p>
+					</div>			
+				</div>						
+				<div id="sidebar_images">
+					<img src="../images/chronology-1945.jpg" width="171" height="139" alt="Chronology 1945">
+					<p>Lincoln (center) with fellow soldiers in H&uuml;ngen, Bavaria, 1945<br/>
+					<a href="#1945">Go to 1945 reference »</a></p>
+				</div>				
+				<br class="clear">
+			</div>		
+			<br class="clear">
+		</div>
+		<!-- END mainbody_wrapper --> 
+		<div id="footer">
+			<div id="left_links">
+				<img src="../images/footer_crest.gif" width="46" height="16" alt="" /><p>&copy; <a href="http://www.eakinspress.com/" target="_blank">Eakins Press Foundation</a> &amp; Ballet Society, <script type="text/javascript">
+					var theDate=new Date();
+					document.write(theDate.getFullYear());
+				</script>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/resources/">Resources</a></p>
+			</div>	
+			<div id="right_links">
+				<p><a href="/credits/">Credits</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://blue-iceberg.com">Website by Blue Iceberg</a></p>
+			</div>
+		</div>
+		<!-- END footer -->
+	</div> 
+	<!-- END wrapper --> 
+	<script type="text/javascript">
+
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-435173-33']);
+	  _gaq.push(['_trackPageview']);
+
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+
+	</script>
+</body> 
+</html> 

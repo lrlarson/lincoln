@@ -1,0 +1,81 @@
+<div id="content_full">
+	<% if @results.size == 0 %>
+	<p>No items found.</p>
+	<%= link_to "Go Back","/bibliography" %>
+	<% elsif @results.size != 0 %>
+	<p class="right_link"><a href="/bibliography" id="back_to_search">New Search &raquo;</a></p>
+	<!-- <a href="#" id = "clear_highlight">Remove Highlighting</a><br /> -->
+	<%= flash[:notice] %>
+	<br class="clear">
+	<p>Click on any heading to sort.</p>
+	<div id="pager" class="pager" align="center"> 
+		<form> 
+			<div class="arrows">
+				<img src="/images/icons/pager/first.png" class="first" id="first_btn" /> 
+				<img src="/images/icons/pager/prev.png" class="prev" id="prev_btn" /> 
+				<input type="text" class="pagedisplay"/> 
+				<img src="/images/icons/pager/next.png" class="next" id="next_btn" /> 
+				<img src="/images/icons/pager/last.png" class="last" id="last_btn" />
+			</div> 
+			<div class="per_page">
+				<select class="pagesize"> 
+					<option selected="selected" value="10">10</option> 
+					<option value="20">20</option> 
+					<option value="30">30</option> 
+					<option value="40">40</option> 
+				</select>
+				<p>Results per page</p>
+			</div>
+		</form>
+	</div>	
+	<br class="clear">
+	<table id="search_results" class="tablesorter">
+		<thead>
+			<tr>	
+				<th width="40" class="headerSortDown">No.</th>
+				<th width="45">Year</th>
+				<th width="330">Title: Bibliographical Entry</th>
+				<th width="165">Location: Publisher</th>
+				<th width="165">Category: Subcategory</th>
+			</tr>
+		</thead>
+		<tbody>	
+			<% @results.each do |r| %>	
+			<tr>
+				<td width="40" align="center"><%= r.reference_id %></td>				
+				<td width="45" align="center"><%= r.year.to_s().gsub('9999','') %></td>
+				<td width="330"><%= r.title.gsub("<p>",'').gsub("</p>",'') %><br /><p class="indent"><%= r.display.gsub("<p>",'').gsub("</p>",'') %><br/>
+				<% unless r.related.blank? %>
+				<%= link_to "View Related Entries &raquo;", "/bibliography?related_ids=#{r.reference_id},#{r.related}" %>
+				<% end %></p></td>
+				<td width="165"><%= r.city_publisher %></td>				
+				<td width="165"><% r.categories.each do |c| %><%= c.parent.name %><br /><span class="subcategory"><%= c.name %></span><br /><% end %></td>
+			</tr>
+			<% end %>
+		</tbody>
+	</table> 
+<% end %>
+<div id="pager_bottom" class="pager" align="center"> 
+	<form> 
+		<div class="arrows">
+			<img src="/images/icons/pager/first.png" class="first" id="first_btn" /> 
+			<img src="/images/icons/pager/prev.png" class="prev" id="prev_btn" /> 
+			<input type="text" class="pagedisplay"/> 
+			<img src="/images/icons/pager/next.png" class="next" id="next_btn" /> 
+			<img src="/images/icons/pager/last.png" class="last" id="last_btn" /> 
+		</div>	
+		<div class="per_page">
+			<select class="pagesize"> 
+				<option selected="selected"  value="10">10</option> 
+				<option value="20">20</option> 
+				<option value="30">30</option> 
+				<option value="40">40</option> 
+			</select>	
+			<p>Results per page</p>
+		</div>
+	</form>
+	<br class="clear">
+</div>
+<p class="right_link"><a href="/bibliography" id="back_to_search">New Search &raquo;</a></p>
+<br class="clear">
+</div>

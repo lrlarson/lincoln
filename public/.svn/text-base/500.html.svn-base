@@ -1,0 +1,81 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/2000/REC-xhtml1-20000126/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-type" content="text/html; charset=iso-8859-1" />
+	<title>Lincoln Kirstein Bibliography</title>
+	<script src="/javascripts/_jquery.js?1270499423" type="text/javascript"></script>
+	<script src="/javascripts/application.js?1275488735" type="text/javascript"></script>
+	<script src="/javascripts/pngfix.js?1271706669" type="text/javascript"></script>
+	<script src="/javascripts/tablesorter.js?1270499423" type="text/javascript"></script>
+	<script src="/javascripts/tablesorter.pager.js?1270652973" type="text/javascript"></script>
+	<link href="/stylesheets/style.css?1279037273" media="screen" rel="stylesheet" type="text/css" />
+	<link href="/stylesheets/csshover.css" media="screen" rel="stylesheet" type="text/css" />
+	<link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+	<!--[if gt IE 5]> 
+		<link href="/stylesheets/ie.css?1279033096" media="screen" rel="stylesheet" type="text/css" />
+	<![endif]-->
+</head>
+<body>
+	<div id="wrapper">	
+		<div class="main_nav">	
+			<ul>
+	 			<li class="first_divider">&nbsp;</li> <!-- Must have for divider -->
+				<li><a href="/">Home</a></li>
+				<li><a href="/about">About Lincoln Kirstein</a></li>
+				<li><a href="/bibliography">Bibliography</a>
+					<ul>
+						<li><a href="/bibliography?cat_id=1">Fiction</a></li>
+						<li><a href="/bibliography?cat_id=2">Poetry</a></li>
+						<li><a href="/bibliography?cat_id=3">Drama &amp; Ballet Libretti</a></li> 
+						<li><a href="/bibliography?cat_id=4">On Dance</a></li>
+						<li class="double"><a href="/bibliography?cat_id=5">On Drawing, Painting, Sculpture &amp; Architecture</a></li>
+						<li><a href="/bibliography?cat_id=6">On Photography</a></li>
+						<li><a href="/bibliography?cat_id=7">On Film</a></li>
+						<li><a href="/bibliography?cat_id=8">On Music &amp; Drama</a></li>
+						<li class="double"><a href="/bibliography?cat_id=9">On Literature, History, Politics &amp; Other Subjects</a></li>
+						<li><a href="/bibliography?cat_id=10">Memoir</a></li>
+					</ul>
+				</li>
+			</ul><br /><br /> 
+		</div>
+		<div id="mainbody_wrapper">
+			<div id="interior_header">
+			<a id="logo_link" href="/" style="outline:none"></a>
+			</div>
+			<div id="content_full">
+				<h2>We're sorry.</h2><br/>
+				<h3>We could not find the page you have requested.<br/>
+					Please <a href="/">click here</a> to return to the home page.</h3>
+				<div class="errorpage_extention">
+				</div>
+			</div>			
+		</div>	
+		<!-- END mainbody_wrapper -->
+	<div id="footer">
+		<div id="left_links">
+			<img src="/images/footer_crest.gif" width="46" height="16" alt="" /><p>&copy; <a href="http://www.eakinspress.com/" target="_blank">Eakins Press Foundation</a> &amp; Ballet Society, Inc., 2010&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/resources/">Resources</a></p>
+		</div>	
+		<div id="right_links">
+			<p><a href="/credits/">Credits</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://blue-iceberg.com">Website by Blue Iceberg</a></p>
+		</div>
+	</div>
+	<!-- END footer -->
+</div>
+<!-- END wrapper -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-435173-33']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</body>
+</html>
+

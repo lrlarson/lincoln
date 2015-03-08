@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/3181/lincolnkirstein/bibliography/trunk/app/views/webadmin/works
+END
+edit.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/3181/lincolnkirstein/bibliography/trunk/app/views/webadmin/works/edit.html.erb
+END
+index.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/3181/lincolnkirstein/bibliography/trunk/app/views/webadmin/works/index.html.erb
+END
+new.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/3181/lincolnkirstein/bibliography/trunk/app/views/webadmin/works/new.html.erb
+END
+_list.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/3144/lincolnkirstein/bibliography/trunk/app/views/webadmin/works/_list.html.erb
+END
+_results.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/3144/lincolnkirstein/bibliography/trunk/app/views/webadmin/works/_results.html.erb
+END
+show.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/3121/lincolnkirstein/bibliography/trunk/app/views/webadmin/works/show.html.erb
+END

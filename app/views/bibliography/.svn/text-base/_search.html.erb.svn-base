@@ -1,0 +1,70 @@
+<h3>Search Bibliography</h3>
+<%= link_to 'Browse All Entries &raquo;', '/bibliography?browse=all', :id => "browse_all_link"  %>&nbsp;<img src="images/ajax_spinner.jpg" id="ajax_spinner" />
+
+<div id="search_wrapper">
+	<div class="search_tabs">
+		<ul class="tabNavigation">
+			<li><a class="selected" href="#basic_search">Basic Search</a></li>
+			<li><a href="#adv_search">Advanced Search</a></li>
+		</ul><br class="clear"/>
+	
+		<div id="basic_search">
+			<fieldset>
+				<% form_tag '/bibliography', :id => "basic_search_form", :class => "search_form", :method => "GET" do -%>						
+					<label>Keyword</label>
+					<%= text_field_tag :keyword_basic, params[:keyword] %>
+					<%= select_tag "category_basic_id", options_for_select([["Search By Category",""]] + @categories.collect{|c| [c.name,c.id]}) %>
+					<br class="clear"><br class="clear">			
+					<%= submit_tag "Search", :id => "submitSearch" %>
+				<% end %>
+			</fieldset>
+		</div>
+
+		<div id="adv_search">
+			<fieldset>
+				<% form_tag '/bibliography', :id => "advanced_search_form", :class => "search_form", :method => "GET" do -%>
+				<label>Keyword</label>
+				<%= text_field_tag :keyword_advanced, params[:keyword_advanced] %>
+				<!-- <a href="#" id="search_pane">Advanced Search</a> -->
+				<label>Title</label>
+				<%= text_field_tag :title, params[:title] %>
+				<label>Year</label>
+				<%= text_field_tag :year, params[:year], :size => 4 %>
+				<label>Publication</label>
+				<%= text_field_tag :publication, params[:publication] %>
+				<label>City/Publisher</label>
+				<%= text_field_tag :location, params[:location] %>
+				<label>Venue</label>
+				<%= text_field_tag :venue, params[:venue] %>
+				<div class="left">
+					<p><input id="category_" name="category[]" type="checkbox" value="1" /><label>Fiction</label></p>
+					<p><input id="category_" name="category[]" type="checkbox" value="2" /><label>Poetry</label></p>
+					<p><input id="category_" name="category[]" type="checkbox" value="3" /><label>Drama &amp; Ballet Libretti</label></p>
+					<p><input id="category_" name="category[]" type="checkbox" value="4" /><label>On Dance</label></p>
+					<p><input id="category_" name="category[]" type="checkbox" value="5" /><label>On Drawing,<br/>
+						<span class="indent">Painting, Sculpture</span><br/><span class="indent">&amp; Architecture</span></label></p>
+				</div>
+				<!--[if lte IE 7]> <br class="clear"> <![endif]-->
+				<div class="right">
+					<p><input id="category_" name="category[]" type="checkbox" value="6" /><label>On Photography</label></p>
+					<p><input id="category_" name="category[]" type="checkbox" value="7" /><label>On Film</label></p>
+					<p><input id="category_" name="category[]" type="checkbox" value="8" /><label>On Music &amp; Drama</label></p>
+					<p><input id="category_" name="category[]" type="checkbox" value="9" /><label>On Literature,<br/>
+						<span class="indent">History, Politics</span><br/><span class="indent">&amp; Other Subjects</span></label></p>
+					<p><input id="category_" name="category[]" type="checkbox" value="10" /><label>Memoir</label></p>
+				</div>			
+				<br class="clear">
+				<%= submit_tag "Search", :id => "submitSearch" %>
+				<br class="clear">
+				<p class="small_text"></p>
+
+				<% end %>
+			</fieldset>
+		</div>
+	</div>
+</div>
+<div id="flash_notice">
+	<% if flash[:notice] %>
+	<%= flash[:notice] %>
+	<% end %>		
+</div>

@@ -1,0 +1,6 @@
+<% if @contents %>
+	<%= @contents.text %><br />
+	<p class="right_link"><%= link_to "View Category &raquo;", "/bibliography?browse=all&cat_id=#{@contents.id}" %></p>
+<% elsif @default %>
+	<%= @default.content %>
+<% end %>

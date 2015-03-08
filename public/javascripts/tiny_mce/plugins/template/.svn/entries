@@ -1,0 +1,85 @@
+8
+
+dir
+3231
+https://svn.blue-iceberg.com/lincolnkirstein/bibliography/trunk/public/javascripts/tiny_mce/plugins/template
+https://svn.blue-iceberg.com
+
+
+
+2010-02-09T20:43:40.809625Z
+2983
+sphillips
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+22245988-851d-0410-a813-99e3dc2cabf4
+
+editor_plugin.js
+file
+
+
+
+
+2011-08-12T21:44:22.000000Z
+70cb20c4e287110ae8aeed999893c532
+2010-02-09T20:43:40.809625Z
+2983
+sphillips
+
+template.htm
+file
+
+
+
+
+2011-08-12T21:44:22.000000Z
+5120bea9d8a19ac903554953c6f5b75d
+2010-02-09T20:43:40.809625Z
+2983
+sphillips
+
+langs
+dir
+
+editor_plugin_src.js
+file
+
+
+
+
+2011-08-12T21:44:22.000000Z
+a9739b5ed27ca870d6dc3cb61f1b63e2
+2010-02-09T20:43:40.809625Z
+2983
+sphillips
+
+css
+dir
+
+js
+dir
+
+blank.htm
+file
+
+
+
+
+2011-08-12T21:44:22.000000Z
+9553e76581d74579d23bea5c7ea8a807
+2010-02-09T20:43:40.809625Z
+2983
+sphillips
+

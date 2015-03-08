@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/3123/lincolnkirstein/bibliography/trunk/config/initializers
+END
+inflections.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/2972/lincolnkirstein/bibliography/trunk/config/initializers/inflections.rb
+END
+session_store.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/3123/lincolnkirstein/bibliography/trunk/config/initializers/session_store.rb
+END
+backtrace_silencers.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/2972/lincolnkirstein/bibliography/trunk/config/initializers/backtrace_silencers.rb
+END
+core_extensions.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/2996/lincolnkirstein/bibliography/trunk/config/initializers/core_extensions.rb
+END
+new_rails_defaults.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/2972/lincolnkirstein/bibliography/trunk/config/initializers/new_rails_defaults.rb
+END
+mime_types.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/2972/lincolnkirstein/bibliography/trunk/config/initializers/mime_types.rb
+END

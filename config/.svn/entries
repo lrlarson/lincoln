@@ -1,0 +1,133 @@
+8
+
+dir
+3231
+https://svn.blue-iceberg.com/lincolnkirstein/bibliography/trunk/config
+https://svn.blue-iceberg.com
+
+
+
+2011-08-12T15:37:42.167856Z
+3224
+sphillips
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+22245988-851d-0410-a813-99e3dc2cabf4
+
+staging_mongrel_cluster.yml
+file
+
+
+
+
+2011-08-12T21:44:07.000000Z
+d9b24fad0d991b53ea70386383fe6ede
+2011-08-12T15:37:42.167856Z
+3224
+sphillips
+
+locales
+dir
+
+routes.rb
+file
+
+
+
+
+2011-08-12T21:44:07.000000Z
+b1f62afd6ec88a0c562234c3db143fed
+2010-06-15T19:11:13.632168Z
+3123
+sphillips
+
+database.yml
+file
+
+
+
+
+2011-08-12T21:44:07.000000Z
+ae6e790a8e638083cf9948ce69857578
+2010-03-22T21:21:14.567956Z
+3027
+sphillips
+
+boot.rb
+file
+
+
+
+
+2011-08-12T21:44:07.000000Z
+cfce6ac16974777a93c14be034b2fdec
+2010-02-02T20:25:51.914824Z
+2972
+sphillips
+
+initializers
+dir
+
+environment.rb
+file
+
+
+
+
+2011-08-12T21:44:07.000000Z
+dcee20baa6b2564034d926576ee00003
+2010-06-15T19:11:13.632168Z
+3123
+sphillips
+
+environments
+dir
+
+tiny_mce.yml
+file
+
+
+
+
+2011-08-12T21:44:07.000000Z
+66a143e0825d3cb9d564745105c1d425
+2010-09-14T19:29:25.923542Z
+3177
+sphillips
+
+production_mongrel_cluster.yml
+file
+
+
+
+
+2011-08-12T21:44:07.000000Z
+5fbfc9feac427111f0b68a6ae4de5a06
+2011-08-12T15:37:42.167856Z
+3224
+sphillips
+
+deploy.rb
+file
+
+
+
+
+2011-08-12T21:44:07.000000Z
+46ebb4d6a568c8b65926282e9f51e01f
+2011-08-12T15:37:42.167856Z
+3224
+sphillips
+

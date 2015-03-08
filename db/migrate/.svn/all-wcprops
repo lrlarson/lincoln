@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/3184/lincolnkirstein/bibliography/trunk/db/migrate
+END
+20100615161142_create_admin_sessions.rb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/3123/lincolnkirstein/bibliography/trunk/db/migrate/20100615161142_create_admin_sessions.rb
+END
+20100212212036_categories_works.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/3053/lincolnkirstein/bibliography/trunk/db/migrate/20100212212036_categories_works.rb
+END
+20100202204635_create_works.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/3184/lincolnkirstein/bibliography/trunk/db/migrate/20100202204635_create_works.rb
+END
+20100615165753_create_admins.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/3123/lincolnkirstein/bibliography/trunk/db/migrate/20100615165753_create_admins.rb
+END
+20100202210241_create_categories.rb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/2974/lincolnkirstein/bibliography/trunk/db/migrate/20100202210241_create_categories.rb
+END
+20100311172025_create_contents.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/3021/lincolnkirstein/bibliography/trunk/db/migrate/20100311172025_create_contents.rb
+END
+20100615162712_create_sessions.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/3123/lincolnkirstein/bibliography/trunk/db/migrate/20100615162712_create_sessions.rb
+END

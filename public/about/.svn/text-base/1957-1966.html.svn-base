@@ -1,0 +1,209 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/2000/REC-xhtml1-20000126/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml"> 
+<head> 
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8" /> 
+	<title>Lincoln Kirstein Bibliography | About</title> 
+	<script src="/javascripts/_jquery.js?1266353821" type="text/javascript"></script> 
+	<script src="/javascripts/application.js?1270841983" type="text/javascript"></script> 
+	<script src="/javascripts/pngfix.js?1270845969" type="text/javascript"></script> 
+	<script src="/javascripts/tablesorter.js?1266353928" type="text/javascript"></script> 
+	<script src="/javascripts/tablesorter.pager.js?1268249798" type="text/javascript"></script> 
+		
+	<link href="/stylesheets/ie6.css?1271092914" media="screen" rel="stylesheet" type="text/css" /> 
+	<link href="/stylesheets/style.css?1271092914" media="screen" rel="stylesheet" type="text/css" /> 
+	<link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+	<!--[if lte IE 6]> 
+		<link href="stylesheets/ie6.css" rel="stylesheet" type="text/css" >
+		<script defer type="text/javascript" src="javascripts/pngfix.js"></script>
+	<![endif]--> 
+</head> 
+<body> 
+	<div id="wrapper"> 
+		<div class="main_nav">	
+			<ul> 
+	 			<li class="first_divider">&nbsp;</li> <!-- Must have for divider --> 	
+				<li><a href="/">Home</a></li> 		
+				<li class="current">About Lincoln Kirstein</li> 		
+				<li><a href="/bibliography">Bibliography</a> 
+					<ul> 
+						<li><a href="/bibliography?cat_id=1">Fiction</a></li> 
+						<li><a href="/bibliography?cat_id=2">Poetry</a></li> 
+						<li><a href="/bibliography?cat_id=3">Drama &amp; Ballet Libretti</a></li> 
+						<li><a href="/bibliography?cat_id=4">On Dance</a></li> 
+						<li class="double"><a href="/bibliography?cat_id=5">On Drawing, Painting, Sculpture &amp; Architecture</a></li> 
+						<li><a href="/bibliography?cat_id=6">On Photography</a></li> 
+						<li><a href="/bibliography?cat_id=7">On Film</a></li> 
+						<li><a href="/bibliography?cat_id=8">On Music &amp; Drama</a></li> 
+						<li class="double"><a href="/bibliography?cat_id=9">On Literature, History, Politics &amp; Other Subjects</a></li> 
+						<li><a href="/bibliography?cat_id=10">Memoir</a></li> 
+					</ul> 
+				</li> 			
+			</ul>
+			<div class="search_wrapper_home">
+							<form action="/bibliography" id="search_form_home" method="get">						
+								<input id="search_field" name="search_field" onfocus="this.value=''" type="text" value="Search Bibliography" />
+								<select id="category_basic_id" name="category_basic_id"><option value="">Search By Category</option>
+
+			<option value="1">Fiction</option>
+			<option value="2">Poetry</option>
+			<option value="3">Drama &amp; Ballet Libretti</option>
+			<option value="4">On Dance</option>
+			<option value="5">On Drawing, Painting, Sculpture &amp; Architecture</option>
+			<option value="6">On Photography</option>
+			<option value="7">On Film</option>
+
+			<option value="8">On Music &amp; Drama</option>
+			<option value="9">On Literature, History, Politics &amp; Other Subjects</option>
+			<option value="10">Memoir</option></select>		
+								<input id="search_btn" name="commit" type="submit" value="" />
+							</form>
+						</div>
+			
+			<br /><br /> 
+		</div> 
+		<div id="lincolnkirstein_print">
+				<img src="/images/logo_print.gif" width="194" height="95" alt="Logo Print">		
+		</div>
+		<div id="mainbody_wrapper"> 
+			<div id="interior_header"> 
+				<a id="logo_link" href="/" style="outline:none"></a> 
+			</div> 
+			<div id="chronology_wrapper">
+				<div id="chronology_nav">
+					<ul id="date_menu">
+						<li><a href="/about/">Introduction</a></li>
+						<li><a href="1907-1926.html">1907 - 1926</a></li>
+						<li><a href="1927-1936.html">1927 - 1936</a></li>
+						<li><a href="1937-1946.html">1937 - 1946</a></li>
+						<li><a href="1947-1956.html">1947 - 1956</a></li>
+						<li><a class="active" href="1957-1966.html">1957 - 1966</a></li>
+						<li><a href="1967-1976.html">1967 - 1976</a></li>
+						<li><a href="1977-1986.html">1977 - 1986</a></li>
+						<li><a href="1987-1996.html">1987 - 1996</a></li>
+						<li class="last"><a href="posthumous.html">Posthumous</a></li>				
+	
+					</ul>
+					<div id="chronology_content">
+						<h1>1957-1966</h1>
+						<p><span class="date">1957</span><br/>
+						Receives the American Guild of Musical Artists (AGMA) Award for his service and devotion to the cause of the American dancer.<br/><br/>
+
+						<span class="date">1957 December 1</span><br/> 
+						Premiere of <span class="bodyitalic">Agon,</span> Balanchine's ballet to music commissioned by him and Lincoln Kirstein from Stravinsky.<br/><br/>
+
+						<span class="date">1958</span><br/> 
+						With the Rockefeller Foundation commissions the opera <span class="bodyitalic">Panfilo and Lauretta</span> from Carlos Chavez and Chester Kallman.<br/><br/>
+
+						<span class="date">1958</span><br/> 
+						New York City Ballet tour to Japan and Australia.<br/><br/>
+
+						<span class="date">1958</span><br/> 
+						Lives in Japan for the first of several periods.<br/><br/>
+
+						<span class="date">1958</span><br/> 
+						Receives the Distinguished Service Award of the National Institute of Arts and Letters.<br/><br/>
+
+						<span class="date">1958 December 4</span><br/> 
+						First performance, by the New York City Ballet, of the revival of the Weill/Brecht <span class="bodyitalic">Seven Deadly Sins</span> with Lotte Lenya, who appeared in Balanchine's original production for Les Ballets 1933; translation commissioned by Lincoln Kirstein from W.H. Auden and Chester Kallman.<br/><br/>
+
+						<span class="date">1959</span><br/>
+						The Division of the Humanities and the Arts of the Ford Foundation, under the leadership of W. McNeil Lowry, Vice President of the Foundation, provides a grant to Ballet Society for a survey of the teaching of ballet in America; subsequent grants to the School of American Ballet make possible a reduced and more selective student body, with scholarship assistance allowing gifted dancers from throughout the country to attend the School.<br/><br/>
+
+						<span class="date">1959</span><br/> 
+						With the support of Dag Hammarskjöld invites Gagaku, the musicians and dancers of the Japanese Imperial Household, to appear during the New York City Ballet season.<br/><br/>
+
+						<span class="date">1959</span><br/> 
+						Produces <span class="bodyitalic">The Play of Daniel</span> with Noah Greenberg's Pro Musica Antiqua in the Romanesque Court of The Cloisters, New York City.<br/><br/>
+
+						<span class="date"><a name="1960" class="anchor">1960s</a></span><br/> 
+						Is active in and becomes an officer of the American Dressage Institute, Saratoga Springs, New York.<br/><br/>
+
+						<span class="date">1960</span><br/> 
+						Arranges the American tour of the Japanese Grand Kabuki.<br/><br/>
+
+						<span class="date">1960 September 27</span><br/> 
+						Awarded the Order of the Sacred Treasure, Fourth Class, by the Japanese Government, for his outstanding contribution to the cultural exchange between the two nations.<br/><br/>
+
+						<span class="date">1961</span><br/> 
+						Appointed a member of the Advisory Committee on the Arts by President John F. Kennedy.<br/><br/>
+
+						<span class="date">1961 October 4</span><br/> 
+						Produces a Shakespeare Evening in the East Room of the White House following a state dinner for President Ibraham Aboud of the Sudan.<br/><br/>
+
+						<span class="date">1962</span><br/> 
+						Commissioned by the Seattle World's Fair to arrange a demonstration of traditional Japanese ritual sports; New York City Ballet performs at the Fair.<br/><br/>
+
+						<span class="date">1962</span><br/> 
+						First New York City Ballet tour to the Soviet Union; series of visits with Sergei Eisenstein's widow, Pera Atasheva.<br/><br/>
+
+						<span class="date">1962 December</span><br/> 
+						Honored by New York City for distinguished and exceptional service following the tour to the Soviet Union.<br/><br/>
+
+						<span class="date">1963</span><br/> 
+						First of continuing grants to the New York City Ballet and the School of American Ballet from the Division of the Humanities and the Arts of the Ford Foundation.<br/><br/>
+
+						<span class="date">1963</span><br/> 
+						Appointed a member of the Citizens Advisory Committee to the Office of Cultural Affairs of the City of New York by Mayor Robert F.Wagner.<br/><br/>
+
+						<span class="date">1964</span><br/> 
+						Publication of <span class="bodyitalic">Rhymes of a PFC,</span> republished in an expanded edition as <span class="bodyitalic">Rhymes and More Rhymes of a PFC</span> in 1966.<br/><br/>
+
+						<span class="date">1964</span><br/> 
+						Publication of <span class="bodyitalic">Pavel Tchelitchew,</span> catalogue of the exhibition shown at the Gallery of Modern Art, New York City.<br/><br/>
+
+						<span class="date">1964 April</span><br/> 
+						The New York City Ballet takes up permanent residence at Lincoln Center for the Performing Arts and opens the New York State Theater, designed by Philip Johnson working closely with George Balanchine and Lincoln Kirstein. For the Grand Promenade Lincoln Kirstein arranges the installation of monumental figures carved after small original sculptures by Elie Nadelman.<br/><br/>
+
+						<span class="date"><a name="1965" class="anchor">1965</a></span><br/> 
+						Takes part in the Alabama civil rights marches.<br/><br/>
+
+						<span class="date">1965</span><br/>
+						New York City Ballet tour to Europe, Israel, and England.<br/><br/>
+
+						<span class="date">1966 July</span><br/> 
+						First of continuing seasons at the newly founded Saratoga Performing Arts Center, Saratoga Springs, New York, which is designed in close consultation with the New York City Ballet.<br/><br/><br/>
+						<a href="#wrapper"><img src="../images/top_btn.gif" width="19" height="19" alt="" class="top_btn" border="0"></a><a href="#wrapper">Back to top</a></p>
+					</div>			
+				</div>						
+				<div id="sidebar_images">
+					<img src="../images/chronology-1960.jpg" width="171" height="258" alt="Chronology 1960">
+					<p>Lincoln in the School of American Ballet studios, New York City, 1960, by Henri Cartier-Bresson</p><br/><br/>
+					<img src="../images/chronology-1965.jpg" width="171" height="146" alt="Chronology 1965">
+					<p>Lincoln (with boy on his shoulders) at the Selma/Montgomery march, Montgomery, Alabama, 1965, by Harley Brate<br/>
+					<a href="#1965">Go to 1965 reference »</a></p>
+				</div>				
+				<br class="clear">
+			</div>		
+			<br class="clear">
+		</div>
+		<!-- END mainbody_wrapper --> 
+		<div id="footer">
+			<div id="left_links">
+				<img src="../images/footer_crest.gif" width="46" height="16" alt="" /><p>&copy; <a href="http://www.eakinspress.com/" target="_blank">Eakins Press Foundation</a> &amp; Ballet Society, <script type="text/javascript">
+					var theDate=new Date();
+					document.write(theDate.getFullYear());
+				</script>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/resources/">Resources</a></p>
+			</div>	
+			<div id="right_links">
+				<p><a href="/credits/">Credits</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://blue-iceberg.com">Website by Blue Iceberg</a></p>
+			</div>
+		</div>
+		<!-- END footer -->
+	</div> 
+	<!-- END wrapper --> 
+	<script type="text/javascript">
+
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-435173-33']);
+	  _gaq.push(['_trackPageview']);
+
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+
+	</script>
+</body> 
+</html> 

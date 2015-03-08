@@ -1,0 +1,40 @@
+8
+
+dir
+3231
+https://svn.blue-iceberg.com/lincolnkirstein/bibliography/trunk/app/views
+https://svn.blue-iceberg.com
+
+
+
+2011-08-12T21:43:46.920327Z
+3231
+sphillips
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+22245988-851d-0410-a813-99e3dc2cabf4
+
+layouts
+dir
+
+webadmin
+dir
+
+bibliography
+dir
+
+contents
+dir
+

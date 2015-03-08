@@ -1,0 +1,62 @@
+<div id="pager" class="pager"> 
+	<form class="admin"> 
+		<div class="arrows">
+			<img src="/images/icons/pager/first.png" class="first" id="first_btn" /> 
+			<img src="/images/icons/pager/prev.png" class="prev" id="prev_btn" /> 
+			<input type="text" class="pagedisplay"/> 
+			<img src="/images/icons/pager/next.png" class="next" id="next_btn" /> 
+			<img src="/images/icons/pager/last.png" class="last" id="last_btn" /> 
+		</div>
+		<div class="per_page">
+			<select class="pagesize"> 
+				<option selected="selected" value="10">10</option> 
+				<option value="20">20</option> 
+				<option value="30">30</option> 
+				<option value="40">40</option> 
+			</select>&nbsp;&nbsp;Results per page	
+		</div>
+		<br class="clear">
+	</form>
+</div>
+<table id="search_results" class="tablesorter">
+	<thead>
+		<tr>	
+			<th width="40" class="headerSortDown">No.</th>
+			<th width="590">Title: Bibliographical Entry</th>
+			<th></th>
+			<th></th>
+		</tr>
+	</thead>
+	<tbody>
+	<% @results.each do |r| %>		
+	<tr>
+		<td width="40" align="center"><%= link_to "#{r.reference_id}", edit_webadmin_work_path(r) %></td>
+		<td width="630" align="left"><%= r.title.gsub("<p>",'').gsub("</p>",'') %><br/><p class="indent"><%= r.display.gsub("<p>",'').gsub("</p>",'') %></td>
+		<td align="center"><%= link_to "Edit", edit_webadmin_work_path(r) %>
+		<td align="center"><%= link_to "Add Reprint", new_webadmin_work_reprint_path(r) %>	
+	</tr>
+	<% end %>
+	</tbody>
+</table> 
+<div id="pager_bottom" class="pager"> 
+	<%= link_to "New Entry", new_webadmin_work_path, :class => "new" %>
+	<form class="admin"> 
+		<div class="arrows">
+			<img src="/images/icons/pager/first.png" class="first" id="first_btn" /> 
+			<img src="/images/icons/pager/prev.png" class="prev" id="prev_btn" /> 
+			<input type="text" class="pagedisplay"/> 
+			<img src="/images/icons/pager/next.png" class="next" id="next_btn" /> 
+			<img src="/images/icons/pager/last.png" class="last" id="last_btn" /> 
+		</div>
+		<div class="per_page">
+			<select class="pagesize"> 
+				<option selected="selected"  value="10">10</option> 
+				<option value="20">20</option> 
+				<option value="30">30</option> 
+				<option value="40">40</option> 
+			</select>&nbsp;&nbsp;Results per page
+		</div>
+		<br class="clear">
+	</form>	
+</div>
+<br />
